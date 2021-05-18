@@ -4,10 +4,10 @@
     <option name="connections">
       <list>
         <IlluminatedCloudConnection>
-          <option name="connectionName" value="Secundary_Playground" />
+          <option name="connectionName" value="secondary_Playground" />
           <option name="connectionType" value="OAUTH" />
           <option name="defaultModuleName" value="secondaryPlayground" />
-          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/Secundary_Playground/OfflineSymbolTable.zip" />
+          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/secondary_Playground/OfflineSymbolTable.zip" />
         </IlluminatedCloudConnection>
       </list>
     </option>
